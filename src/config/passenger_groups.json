@@ -1,0 +1,69 @@
+{
+  "folder_name": "passengers",
+  "total_groups": 7,
+  "groups": [
+    {
+      "title": "Қозон Группа",
+      "id": "-1002227900964",
+      "raw_id": 2227900964,
+      "username": null,
+      "link": "https://t.me/c/2227900964/1",
+      "type": "Guruh",
+      "is_public": false
+    },
+    {
+      "title": "МЕХНАТКАШЛАР👊",
+      "id": "-1003821894274",
+      "raw_id": 3821894274,
+      "username": null,
+      "link": "https://t.me/c/3821894274/1",
+      "type": "Guruh",
+      "is_public": false
+    },
+    {
+      "title": "Safar taksi",
+      "id": "-1002563400876",
+      "raw_id": 2563400876,
+      "username": null,
+      "link": "https://t.me/c/2563400876/1",
+      "type": "Guruh",
+      "is_public": false
+    },
+    {
+      "title": "ELTUVCHI TAXI",
+      "id": "-1002278599289",
+      "raw_id": 2278599289,
+      "username": null,
+      "link": "https://t.me/c/2278599289/1",
+      "type": "Guruh",
+      "is_public": false
+    },
+    {
+      "title": "САФДОШЛАР ( ПРЕМИУМ )",
+      "id": "-1002721584286",
+      "raw_id": 2721584286,
+      "username": null,
+      "link": "https://t.me/c/2721584286/1",
+      "type": "Guruh",
+      "is_public": false
+    },
+    {
+      "title": "QADIRDONLAR 7777",
+      "id": "-4949164962",
+      "raw_id": 4949164962,
+      "username": null,
+      "link": "https://t.me/c/4949164962/1",
+      "type": "Guruh",
+      "is_public": false
+    },
+    {
+      "title": "OLDI BORDI",
+      "id": "-1002016693433",
+      "raw_id": 2016693433,
+      "username": null,
+      "link": "https://t.me/c/2016693433/1",
+      "type": "Guruh",
+      "is_public": false
+    }
+  ]
+}

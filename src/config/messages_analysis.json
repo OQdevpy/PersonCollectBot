@@ -1,0 +1,2094 @@
+{
+  "analysis_date": "2026-03-24T23:12:03.408180",
+  "total_groups": 7,
+  "groups": [
+    {
+      "chat_id": "-1002227900964",
+      "group_title": "Қозон Группа",
+      "total_messages": 15,
+      "messages": [
+        {
+          "message_id": 629654,
+          "date": "2026-03-24T18:07:27+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 179,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "**👤 Yo'lovchi: **makhmudov🖤**\n📞: ****+998507054041****\n\nQayerdan: Андижон\nQayerga: Тошкент\n\n Oldi bo"
+        },
+        {
+          "message_id": 629649,
+          "date": "2026-03-24T17:57:49+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 122,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Ertaman saxar soat 5da Andijon shaxardan toshkent aeroportga Malibu kere.\n937825500\n\nOta toza akurat"
+        },
+        {
+          "message_id": 629648,
+          "date": "2026-03-24T17:56:55+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7908061141,
+            "name": "🚖 Андижон Toshkent бот 🤖",
+            "username": "Toshkent_Andijon_robot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 151,
+            "has_media": false,
+            "media_type": null,
+            "has_links": true,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "**Dovontaxi\n💬 ЗАКАЗ: ** Akalar ertamanga birkishi bor toshkega\n\n🔗 [Хабар олинган жой](https://t.me/a"
+        },
+        {
+          "message_id": 629647,
+          "date": "2026-03-24T17:56:42+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 153,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "👤  makhmudov🖤\n📞: +998507054041\n\nQayerdan: Андижон\nQayerga: Тошкент\n\n Oldi bo'sh jentra hozirga\nassal"
+        },
+        {
+          "message_id": 629646,
+          "date": "2026-03-24T17:56:41+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 179,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "**👤 Yo'lovchi: **makhmudov🖤**\n📞: ****+998507054041****\n\nQayerdan: Андижон\nQayerga: Тошкент\n\n Oldi bo"
+        },
+        {
+          "message_id": 629645,
+          "date": "2026-03-24T17:54:42+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 37,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Olti kishilik moshina kerak olmaliqqa"
+        },
+        {
+          "message_id": 629643,
+          "date": "2026-03-24T17:54:27+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 22,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Oltinkoʼl Safaronoddan"
+        },
+        {
+          "message_id": 629641,
+          "date": "2026-03-24T17:53:41+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 149,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "👤  makhmudov🖤\n📞: +998507054041\n\nQayerdan: Андижон\nQayerga: Тошкент\n\n Oldi bo'sh jentra hozirga\nassal"
+        },
+        {
+          "message_id": 629640,
+          "date": "2026-03-24T17:53:40+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 175,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "**👤 Yo'lovchi: **makhmudov🖤**\n📞: ****+998507054041****\n\nQayerdan: Андижон\nQayerga: Тошкент\n\n Oldi bo"
+        },
+        {
+          "message_id": 629638,
+          "date": "2026-03-24T17:52:41+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 47,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Toshkentan andijonga odam bor 3 ta 93 221 57 53"
+        },
+        {
+          "message_id": 629637,
+          "date": "2026-03-24T17:52:40+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7908061141,
+            "name": "🚖 Андижон Toshkent бот 🤖",
+            "username": "Toshkent_Andijon_robot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 47,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Toshkentan andijonga odam bor 3 ta 93 221 57 53"
+        },
+        {
+          "message_id": 629636,
+          "date": "2026-03-24T17:52:40+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 79,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Toshkentan andijonga odam bor 3 ta 93 221 57 53\n🖲  👤 **Profil** : foydalanuvchi"
+        },
+        {
+          "message_id": 629635,
+          "date": "2026-03-24T17:52:39+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 92,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "👤 K A R Oʻ L\n🆔 User ID: 203980548\n\nToshkentan andijonga odam bor 3 ta\n\n☎️ Тел: +998932215753"
+        },
+        {
+          "message_id": 629634,
+          "date": "2026-03-24T17:51:26+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 122,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Ertaman saxar soat 5da Andijon shaxardan toshkent aeroportga Malibu kere.\n937825500\n\nOta toza akurat"
+        },
+        {
+          "message_id": 629633,
+          "date": "2026-03-24T17:49:53+00:00",
+          "sender_type": "unknown",
+          "sender_info": {},
+          "content": {
+            "has_text": true,
+            "text_length": 142,
+            "has_media": false,
+            "media_type": null,
+            "has_links": true,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "Андижон Тошкент такси\n\nToshkentdan andijon qorgontepaga 23:30ga 200 min bor\n\n👤 @kam1off | Клиент лич"
+        }
+      ]
+    },
+    {
+      "chat_id": "-1003821894274",
+      "group_title": "МЕХНАТКАШЛАР👊",
+      "total_messages": 15,
+      "messages": [
+        {
+          "message_id": 453,
+          "date": "2026-03-24T18:10:01+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 2073070282,
+            "name": "Лутфуллох 07",
+            "username": null
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 452,
+          "date": "2026-03-24T18:09:34+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1072660269,
+            "name": "𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅𝒀𝒖𝒔𝒖𝒇",
+            "username": "COBLT929"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 451,
+          "date": "2026-03-24T18:09:30+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1072660269,
+            "name": "𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅𝒀𝒖𝒔𝒖𝒇",
+            "username": "COBLT929"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 450,
+          "date": "2026-03-24T17:57:19+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1072660269,
+            "name": "𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅𝒀𝒖𝒔𝒖𝒇",
+            "username": "COBLT929"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 449,
+          "date": "2026-03-24T17:57:18+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1072660269,
+            "name": "𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅𝒀𝒖𝒔𝒖𝒇",
+            "username": "COBLT929"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 448,
+          "date": "2026-03-24T17:50:53+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1072660269,
+            "name": "𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅𝒀𝒖𝒔𝒖𝒇",
+            "username": "COBLT929"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 447,
+          "date": "2026-03-24T17:50:45+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 2073070282,
+            "name": "Лутфуллох 07",
+            "username": null
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 446,
+          "date": "2026-03-24T17:50:27+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1072660269,
+            "name": "𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅𝒀𝒖𝒔𝒖𝒇",
+            "username": "COBLT929"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 445,
+          "date": "2026-03-24T17:50:24+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1072660269,
+            "name": "𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅𝒀𝒖𝒔𝒖𝒇",
+            "username": "COBLT929"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 444,
+          "date": "2026-03-24T17:16:47+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 6784074126,
+            "name": "НАЖМИДДИН",
+            "username": "qayumov1914"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 443,
+          "date": "2026-03-24T17:13:57+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 764777221,
+            "name": "𝗢𝗬𝗕𝗘𝗞",
+            "username": "Tel_930932424"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 442,
+          "date": "2026-03-24T17:13:51+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 764777221,
+            "name": "𝗢𝗬𝗕𝗘𝗞",
+            "username": "Tel_930932424"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 6,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Yo aka"
+        },
+        {
+          "message_id": 441,
+          "date": "2026-03-24T17:11:26+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8298489261,
+            "name": "Sardorbek",
+            "username": null
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 440,
+          "date": "2026-03-24T17:04:37+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 6068306571,
+            "name": "Otabek Aka K5",
+            "username": "Otabek_94_25"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 65,
+            "has_media": false,
+            "media_type": null,
+            "has_links": true,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "https://www.instagram.com/reel/DWOt-NbCGuD/?igsh=OTRzYXNzcDBxMjFz"
+        },
+        {
+          "message_id": 439,
+          "date": "2026-03-24T16:57:01+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1072660269,
+            "name": "𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅𝒀𝒖𝒔𝒖𝒇",
+            "username": "COBLT929"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        }
+      ]
+    },
+    {
+      "chat_id": "-1002563400876",
+      "group_title": "Safar taksi",
+      "total_messages": 15,
+      "messages": [
+        {
+          "message_id": 191120,
+          "date": "2026-03-24T17:56:42+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7714767806,
+            "name": "Andijon Toshkent Taxi",
+            "username": "safar_taxi_robot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 153,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "👤  makhmudov🖤\n📞: +998507054041\n\nQayerdan: Андижон\nQayerga: Тошкент\n\n Oldi bo'sh jentra hozirga\nassal"
+        },
+        {
+          "message_id": 191118,
+          "date": "2026-03-24T17:53:41+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7714767806,
+            "name": "Andijon Toshkent Taxi",
+            "username": "safar_taxi_robot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 149,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "👤  makhmudov🖤\n📞: +998507054041\n\nQayerdan: Андижон\nQayerga: Тошкент\n\n Oldi bo'sh jentra hozirga\nassal"
+        },
+        {
+          "message_id": 191116,
+          "date": "2026-03-24T17:52:41+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7714767806,
+            "name": "Andijon Toshkent Taxi",
+            "username": "safar_taxi_robot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 47,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Toshkentan andijonga odam bor 3 ta 93 221 57 53"
+        },
+        {
+          "message_id": 191115,
+          "date": "2026-03-24T17:52:39+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7726230692,
+            "name": "Toshkent Qorgontepa Jalaquduq Taksi",
+            "username": "qorgontepa_jalaquduq_bot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 138,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "👤 **K A R Oʻ L**\n🆔 User ID: `203980548`\n\nToshkentan andijonga odam bor 3 ta\n\n☎️ Тел: +998932215753\n\n"
+        },
+        {
+          "message_id": 191114,
+          "date": "2026-03-24T17:52:33+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1225493235,
+            "name": "NURSULTON",
+            "username": "nursultonabdullayev"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 4,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Oyin"
+        },
+        {
+          "message_id": 191113,
+          "date": "2026-03-24T17:52:01+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8656807692,
+            "name": "Andijon_Toshkent_Andijon_24/7",
+            "username": "Andijon_Toshkent_taxsiy"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 4,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Олнд"
+        },
+        {
+          "message_id": 191111,
+          "date": "2026-03-24T17:49:52+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7480757867,
+            "name": "Andijon Toshkent",
+            "username": "andijon1_bot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 151,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "**Андижон Тошкент такси**\n\nToshkentdan andijon qorgontepaga 23:30ga 200 min bor\n\n👤 @kam1off | [Клиен"
+        },
+        {
+          "message_id": 191110,
+          "date": "2026-03-24T17:48:28+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7714767806,
+            "name": "Andijon Toshkent Taxi",
+            "username": "safar_taxi_robot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 103,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Toshkent Qoyliqdan Shahrixon segazaqumga 1 ta odam bor srochniga 150 beradi ortiqcha yoq \n+998883391"
+        },
+        {
+          "message_id": 191109,
+          "date": "2026-03-24T17:48:26+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7726230692,
+            "name": "Toshkent Qorgontepa Jalaquduq Taksi",
+            "username": "qorgontepa_jalaquduq_bot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 195,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "👤 **qayumov's ЯR**\n🆔 User ID: `5761044037`\n\nToshkent Qoyliqdan Shahrixon segazaqumga 1 ta odam bor s"
+        },
+        {
+          "message_id": 191107,
+          "date": "2026-03-24T17:47:24+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7480757867,
+            "name": "Andijon Toshkent",
+            "username": "andijon1_bot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 193,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "👤 **BoY_ZVeZ**\n🆔 User ID: `8624598486`\n\nErtalab 6 7 oraligiga towkenda anjonga 1ta odam bor tom baga"
+        },
+        {
+          "message_id": 191106,
+          "date": "2026-03-24T17:46:31+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7714767806,
+            "name": "Andijon Toshkent Taxi",
+            "username": "safar_taxi_robot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 73,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "👤  .\n📞: +998913800522\n\nQayerdan: Андижон\nQayerga: Тошкент\n\n +998889541901"
+        },
+        {
+          "message_id": 191104,
+          "date": "2026-03-24T17:42:23+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7726230692,
+            "name": "Toshkent Qorgontepa Jalaquduq Taksi",
+            "username": "qorgontepa_jalaquduq_bot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 247,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "👤 **сабиров**\n🆔 User ID: `7254404015`\n\nAndijondan toshkentga hozrga ketvotganla 1 kishiman oldi bo's"
+        },
+        {
+          "message_id": 191102,
+          "date": "2026-03-24T17:40:41+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7480757867,
+            "name": "Andijon Toshkent",
+            "username": "andijon1_bot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 104,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "👤 **Odilxon Qayumov**\n🆔 User ID: `7359494042`\n\n65 ming✅arginal ✅\n\n🚀 Safar Taksi: @andijon_taxi_samar"
+        },
+        {
+          "message_id": 191101,
+          "date": "2026-03-24T17:40:41+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7480757867,
+            "name": "Andijon Toshkent",
+            "username": "andijon1_bot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 113,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "👤 **Odilxon Qayumov**\n🆔 User ID: `7359494042`\n\n5 mitr. Uzunligi 41 ming ✅\n\n🚀 Safar Taksi: @andijon_t"
+        },
+        {
+          "message_id": 191100,
+          "date": "2026-03-24T17:40:40+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 7480757867,
+            "name": "Andijon Toshkent",
+            "username": "andijon1_bot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 106,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "👤 **Odilxon Qayumov**\n🆔 User ID: `7359494042`\n\n43 ming ✅ arginal ✅\n\n🚀 Safar Taksi: @andijon_taxi_sam"
+        }
+      ]
+    },
+    {
+      "chat_id": "-1002278599289",
+      "group_title": "ELTUVCHI TAXI",
+      "total_messages": 15,
+      "messages": [
+        {
+          "message_id": 212189,
+          "date": "2026-03-24T17:47:26+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 179,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n Ertalab 6 7 oraligiga towkenda anjonga 1ta odam bor tom bagajni mowina kerak tow"
+        },
+        {
+          "message_id": 212188,
+          "date": "2026-03-24T17:47:26+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 113,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Ertalab 6 7 oraligiga towkenda anjonga 1ta odam bor tom bagajni mowina kerak towkent yangiyoldan and"
+        },
+        {
+          "message_id": 212187,
+          "date": "2026-03-24T17:32:09+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 5177305777,
+            "name": "NASIBULLOH",
+            "username": "BILLO3373"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 83,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "АНДИЖОН ШАХАРДАН  ТОШКЕНТ ШАХАРГА 3:00 ГА 1 ОДАМ БОР ОЛДИНИ СУ́РАЯПТИ\n+998914951515"
+        },
+        {
+          "message_id": 212185,
+          "date": "2026-03-24T17:27:35+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 94,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n Yolkira qancha paxtabotgacha \n\n [Telegram Profil](tg://user?id=8117305730)"
+        },
+        {
+          "message_id": 212184,
+          "date": "2026-03-24T17:10:37+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 131,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n Andijon 1 dan bir odam bor tashkentka ertag 12 00 ketadgon mashina borm kunduz +"
+        },
+        {
+          "message_id": 212182,
+          "date": "2026-03-24T17:06:32+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 59,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Акалар срочни битта одам бор тел килораслар номер 938437909"
+        },
+        {
+          "message_id": 212174,
+          "date": "2026-03-24T16:52:58+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 99,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n MOSHINA KERAK TOSHKENGA 2 KISHMIZ \n\n [Telegram Profil](tg://user?id=5707461307)"
+        },
+        {
+          "message_id": 212169,
+          "date": "2026-03-24T15:59:37+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1522613420,
+            "name": "То'ха☝️🗽",
+            "username": "toxir943234144"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 13,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Олинди рахмат"
+        },
+        {
+          "message_id": 212165,
+          "date": "2026-03-24T15:45:11+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 82,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n Ассалому алайкум \nБодринг неча пул булябди? \n\n Telegram Profil"
+        },
+        {
+          "message_id": 212164,
+          "date": "2026-03-24T15:39:21+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 109,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n Тошкендан андижонга эртага кечас 1га 6 кишилик мошина керак @yunsv_ali \n\n Telegr"
+        },
+        {
+          "message_id": 212162,
+          "date": "2026-03-24T14:54:39+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 51,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Agaplar 26 mart kuniga toshkent ayraportga odam bor"
+        },
+        {
+          "message_id": 212161,
+          "date": "2026-03-24T14:54:38+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 117,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n Agaplar 26 mart kuniga toshkent ayraportga odam bor \n\n [Telegram Profil](tg://us"
+        },
+        {
+          "message_id": 212158,
+          "date": "2026-03-24T14:22:18+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1228676619,
+            "name": "Машхурбек",
+            "username": "mashxurbek_andijon"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 82,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n 2 odam bor dostli tamojni sirocni \n\n Telegram Profil @Happ_321"
+        },
+        {
+          "message_id": 212156,
+          "date": "2026-03-24T14:19:36+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 103,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n Pochta bor tom bagaj kerak marhamatga \n\n [Telegram Profil](tg://user?id=65063851"
+        },
+        {
+          "message_id": 212153,
+          "date": "2026-03-24T14:14:23+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8007097205,
+            "name": "АНДИЖОН ТОШКЕНТ",
+            "username": "eltuvchi_taxirobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 94,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "🚕 ELTUVCHI TAXI🆕 \n\n Akalar.Marhamatga pochta bor \n\n [Telegram Profil](tg://user?id=6506385193)"
+        }
+      ]
+    },
+    {
+      "chat_id": "-1002721584286",
+      "group_title": "САФДОШЛАР ( ПРЕМИУМ )",
+      "total_messages": 15,
+      "messages": [
+        {
+          "message_id": 69194,
+          "date": "2026-03-24T17:21:12+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 164,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @osmandispatch\nXabar: Andijon dostlikdan toshkent yakkasaroyga hozirga moshina kerek 1 ta "
+        },
+        {
+          "message_id": 69193,
+          "date": "2026-03-24T17:21:02+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 134,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @KarimovichA\nXabar: Tashkent Abu Saxiydan ertalabga odam bor orqa salon kerak arzonroq.\n\n\n"
+        },
+        {
+          "message_id": 69192,
+          "date": "2026-03-24T16:48:20+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 163,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @dr_akbaraliyev\nXabar: Chilonzor 16 gor banisani oldidan doslik postga pochta bor srochna "
+        },
+        {
+          "message_id": 69191,
+          "date": "2026-03-24T16:29:09+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 122,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @kht_l8\nXabar: Assalomu aleykum Andijondan toshkentka moshina kere odam 1ta\n\n\nBizning bot:"
+        },
+        {
+          "message_id": 69190,
+          "date": "2026-03-24T16:20:24+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 99,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @jaxon_1515\nXabar: Asakadan Toshkentda odam bor 1 ta\n\n\nBizning bot: @ToshkentAndijonRobot"
+        },
+        {
+          "message_id": 69189,
+          "date": "2026-03-24T15:59:22+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 168,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @Kamolov_ss\nXabar: Andijon dan toshketga oldi bosh moshina kerek  1 ta man hozir yolga chi"
+        },
+        {
+          "message_id": 69188,
+          "date": "2026-03-24T15:54:13+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 165,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @Ali_122_93\nXabar: Soat 02:00 ga ketadigan 2 ta Ayol kishi bor Asakadan Ayol kishisi bor S"
+        },
+        {
+          "message_id": 69187,
+          "date": "2026-03-24T15:49:37+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 184,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @mbklh11\nXabar: Assalomu alaykum akalar yaxshimisizlar menga ertalab  soat 7larga Toshkent"
+        },
+        {
+          "message_id": 69186,
+          "date": "2026-03-24T15:47:35+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 183,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @Mister_0700\nXabar: Андижонга 1 та эркак клиент бор. Ракатдан яккасарой Олди буш жентра ке"
+        },
+        {
+          "message_id": 69185,
+          "date": "2026-03-24T15:36:47+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 132,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "Ism: MUHTORAZIZ\nXabar: TTZdan Xonobodga pochta bor\n\nProfil: [MUHTORAZIZ](tg://user?id=772872642)\n\nBi"
+        },
+        {
+          "message_id": 69184,
+          "date": "2026-03-24T15:32:00+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 112,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @mirzo_mominov\nXabar: Andijondan Toshkentga ketishim kerak ertaga\n\n\nBizning bot: @Toshkent"
+        },
+        {
+          "message_id": 69183,
+          "date": "2026-03-24T15:31:00+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 112,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @mirzo_mominov\nXabar: Andijondan Toshkentga ertaga ketishim kerak\n\n\nBizning bot: @Toshkent"
+        },
+        {
+          "message_id": 69182,
+          "date": "2026-03-24T15:19:52+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 143,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @akramovv_o21\nXabar: Andijon shahardan toshkent shaharga ketadgon odam bor 1 ta soat 00:00"
+        },
+        {
+          "message_id": 69181,
+          "date": "2026-03-24T15:15:22+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 152,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @quvnoq_atraksion_servis\nXabar: Toshkent Ar buloqdan Andijon avtovakzalga pochta bor srocn"
+        },
+        {
+          "message_id": 69180,
+          "date": "2026-03-24T15:13:32+00:00",
+          "sender_type": "bot",
+          "sender_info": {
+            "id": 8022724579,
+            "name": "Toshkent Andijon taksi",
+            "username": "toshkentandijonnrobot"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 109,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": true,
+            "has_hashtags": false
+          },
+          "text_preview": "username: @marcell0ff\nXabar: Andijon shahardan yangi toshmiga pochta bor\n\n\nBizning bot: @ToshkentAnd"
+        }
+      ]
+    },
+    {
+      "chat_id": "-4949164962",
+      "group_title": "QADIRDONLAR 7777",
+      "total_messages": 15,
+      "messages": [
+        {
+          "message_id": 40161,
+          "date": "2026-03-24T14:15:54+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8449061280,
+            "name": "..U Z B..1001",
+            "username": null
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 204,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "ТОШКЕНТДАН\n\nАНДИЖОН шахарга\n\nКУРГОНТЕПА \n\nЖАЛАКУДУК\n\nХУЖАБОДГА\n\n2 та ОДАМ КАМ \n\nЗАРУР ПОЧТА  ОЛАМАН "
+        },
+        {
+          "message_id": 40160,
+          "date": "2026-03-24T14:11:55+00:00",
+          "sender_type": "forward",
+          "sender_info": {
+            "forward_from": "user",
+            "forward_from_id": 1807448288
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 83,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "ЖАЛАКУДУК ХУЖАБОТ АНДИЖОНДАН ТОШКЕНТГА 1 ОДАМ ПОШТА ОЛАМАН ПОКИЗА КОБАЛЬТ 940674424"
+        },
+        {
+          "message_id": 40054,
+          "date": "2026-03-24T12:22:40+00:00",
+          "sender_type": "forward",
+          "sender_info": {
+            "forward_from": "user",
+            "forward_from_id": 1807448288
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 83,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "ЖАЛАКУДУК ХУЖАБОТ АНДИЖОНДАН ТОШКЕНТГА 2 ОДАМ ПОШТА ОЛАМАН ПОКИЗА КОБАЛЬТ 940674424"
+        },
+        {
+          "message_id": 40053,
+          "date": "2026-03-24T12:21:48+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1807448288,
+            "name": "Fahriddin",
+            "username": null
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 40052,
+          "date": "2026-03-24T12:19:14+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 424095989,
+            "name": "𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫",
+            "username": null
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 120,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Тошкентдаман шахар ичидаман Жалакудук Кургонтепага 1та одам камдаман аёл киши бор олди буш рахмат ол"
+        },
+        {
+          "message_id": 40051,
+          "date": "2026-03-24T11:31:31+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8321832252,
+            "name": "ABU",
+            "username": "ABU_AKA_108"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 40050,
+          "date": "2026-03-24T11:31:04+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8425006920,
+            "name": "Rofuq Aka",
+            "username": null
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 40049,
+          "date": "2026-03-24T11:30:34+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8321832252,
+            "name": "ABU",
+            "username": "ABU_AKA_108"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 40048,
+          "date": "2026-03-24T11:29:01+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8425006920,
+            "name": "Rofuq Aka",
+            "username": null
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 40047,
+          "date": "2026-03-24T11:28:31+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8321832252,
+            "name": "ABU",
+            "username": "ABU_AKA_108"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 6,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Olindi"
+        },
+        {
+          "message_id": 40046,
+          "date": "2026-03-24T11:26:41+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8321832252,
+            "name": "ABU",
+            "username": "ABU_AKA_108"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 40045,
+          "date": "2026-03-24T11:26:15+00:00",
+          "sender_type": "forward",
+          "sender_info": {
+            "forward_from": "user",
+            "forward_from_id": 516592532
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 40036,
+          "date": "2026-03-24T10:58:25+00:00",
+          "sender_type": "forward",
+          "sender_info": {
+            "forward_from": "user",
+            "forward_from_id": 1807448288
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 83,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "ЖАЛАКУДУК ХУЖАБОТ АНДИЖОНДАН ТОШКЕНТГА 2 ОДАМ ПОШТА ОЛАМАН ПОКИЗА КОБАЛЬТ 940674424"
+        },
+        {
+          "message_id": 40028,
+          "date": "2026-03-24T09:56:22+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8449061280,
+            "name": "..U Z B..1001",
+            "username": null
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 204,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "ТОШКЕНТДАН\n\nАНДИЖОН шахарга\n\nКУРГОНТЕПА \n\nЖАЛАКУДУК\n\nХУЖАБОДГА\n\n2 та ОДАМ КАМ \n\nЗАРУР ПОЧТА  ОЛАМАН "
+        },
+        {
+          "message_id": 40027,
+          "date": "2026-03-24T09:55:03+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 8449061280,
+            "name": "..U Z B..1001",
+            "username": null
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 204,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "ТОШКЕНТДАН\n\nАНДИЖОН шахарга\n\nКУРГОНТЕПА \n\nЖАЛАКУДУК\n\nХУЖАБОДГА\n\n4 та ОДАМ КАМ \n\nЗАРУР ПОЧТА  ОЛАМАН "
+        }
+      ]
+    },
+    {
+      "chat_id": "-1002016693433",
+      "group_title": "OLDI BORDI",
+      "total_messages": 15,
+      "messages": [
+        {
+          "message_id": 9891,
+          "date": "2026-03-24T13:20:04+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 772413509,
+            "name": "@JETAOUR_ADMIN",
+            "username": "JETAOUR_ADMIN"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 9890,
+          "date": "2026-03-24T10:50:26+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 772413509,
+            "name": "@JETAOUR_ADMIN",
+            "username": "JETAOUR_ADMIN"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 9889,
+          "date": "2026-03-24T07:57:55+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 772413509,
+            "name": "@JETAOUR_ADMIN",
+            "username": "JETAOUR_ADMIN"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 9886,
+          "date": "2026-03-23T12:36:19+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 6881382608,
+            "name": "Анваржонов",
+            "username": null
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 9885,
+          "date": "2026-03-22T04:16:20+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 1078549197,
+            "name": "Сардорбек",
+            "username": null
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 9884,
+          "date": "2026-03-21T04:10:32+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 574044210,
+            "name": "Сендан вос кечканга талпинма",
+            "username": "B788QA"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 9883,
+          "date": "2026-03-20T19:36:03+00:00",
+          "sender_type": "forward",
+          "sender_info": {
+            "forward_from": "user",
+            "forward_from_id": 1449882594
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 19,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Андижонлик ака екан"
+        },
+        {
+          "message_id": 9882,
+          "date": "2026-03-20T19:36:03+00:00",
+          "sender_type": "forward",
+          "sender_info": {
+            "forward_from": "user",
+            "forward_from_id": 1449882594
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 113,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Асалому Аллекум  права топиб олинди бугун Ташкент айрапортдан YUSUPOV NEMATULLO  ga tegishli tel qil"
+        },
+        {
+          "message_id": 9881,
+          "date": "2026-03-20T19:36:03+00:00",
+          "sender_type": "forward",
+          "sender_info": {
+            "forward_from": "user",
+            "forward_from_id": 1449882594
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 30,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "Ака шуни елон киберинг илтимос"
+        },
+        {
+          "message_id": 9880,
+          "date": "2026-03-20T06:44:39+00:00",
+          "sender_type": "forward",
+          "sender_info": {
+            "forward_from": "user",
+            "forward_from_id": 8359818463
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 54,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "bishkekdan andijonga taksi yoqmi srochni bugunga kerak"
+        },
+        {
+          "message_id": 9879,
+          "date": "2026-03-20T06:44:39+00:00",
+          "sender_type": "forward",
+          "sender_info": {
+            "forward_from": "user",
+            "forward_from_id": 8359818463
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 20,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "assalomu aleykum aka"
+        },
+        {
+          "message_id": 9878,
+          "date": "2026-03-20T04:05:19+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 772413509,
+            "name": "@JETAOUR_ADMIN",
+            "username": "JETAOUR_ADMIN"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 9877,
+          "date": "2026-03-20T04:05:19+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 772413509,
+            "name": "@JETAOUR_ADMIN",
+            "username": "JETAOUR_ADMIN"
+          },
+          "content": {
+            "has_text": true,
+            "text_length": 9,
+            "has_media": false,
+            "media_type": null,
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": "934166205"
+        },
+        {
+          "message_id": 9876,
+          "date": "2026-03-20T04:05:19+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 772413509,
+            "name": "@JETAOUR_ADMIN",
+            "username": "JETAOUR_ADMIN"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaGeo",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        },
+        {
+          "message_id": 9875,
+          "date": "2026-03-20T04:05:19+00:00",
+          "sender_type": "user",
+          "sender_info": {
+            "id": 772413509,
+            "name": "@JETAOUR_ADMIN",
+            "username": "JETAOUR_ADMIN"
+          },
+          "content": {
+            "has_text": false,
+            "text_length": 0,
+            "has_media": true,
+            "media_type": "MessageMediaDocument",
+            "has_links": false,
+            "has_mentions": false,
+            "has_hashtags": false
+          },
+          "text_preview": null
+        }
+      ]
+    }
+  ]
+}
